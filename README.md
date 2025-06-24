@@ -29,14 +29,5 @@ Two forecasting models were applied to predict the number of orders for the next
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Google Colab
 - GitHub
-
 ---
-
 Created by Chantika Anasthya – 2025
-"""
-
-# Simpan file sebagai README.md
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content)
-
-readme_path
