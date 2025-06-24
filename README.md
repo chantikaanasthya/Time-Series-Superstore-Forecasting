@@ -1,8 +1,5 @@
 # Time-Series-Superstore-Forecasting
-from pathlib import Path
 
-# Isi konten README.md
-readme_content = """
 # 📈 Superstore Time Series Forecasting
 
 This repository contains a time series analysis and forecasting project using 2017 transactional data from the Superstore dataset. The project focuses on identifying trends, seasonality, and predicting future transactions to support strategic business decisions.
